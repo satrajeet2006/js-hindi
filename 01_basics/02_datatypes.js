@@ -9,4 +9,23 @@ console.log(3
     3) // code readability should be high
 
 let name = "SAtty"
-let
+let age = 18;
+let loggedin = false
+let state = null;
+
+//number = 2 to power 53
+// bigint
+// string => ""
+//boolean => true/value
+// null => standalone value , representation of empty value
+// undefined => not defined
+//symbol => unique
+
+
+
+console.log(typeof "SAtty")
+
+console.log(typeof null) // object
+console.log(typeof undefined) //undefined
+
+
